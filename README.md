@@ -54,6 +54,8 @@ Take a look at the [LWS announcement](https://help.salesforce.com/s/articleView?
    sfdx force:org:create -s -f config/project-scratch-def.json -a lws-examples
    ```
 
+1. Install [Twitter Connector](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EJc1NUAT) package
+
 1. Push the app to your scratch org:
 
    ```
