@@ -1,0 +1,3 @@
+{
+  "extends": ["@locker/eslint-config-locker/recommended"]
+}

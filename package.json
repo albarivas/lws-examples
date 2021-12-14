@@ -7,6 +7,7 @@
     "lint": "npm run lint:lwc && npm run lint:aura",
     "lint:aura": "eslint **/aura/**",
     "lint:lwc": "eslint **/lwc/**",
+    "lint:staticresources": "eslint **/staticresources/**.js",
     "test": "npm run test:unit",
     "test:unit": "sfdx-lwc-jest",
     "test:unit:watch": "sfdx-lwc-jest --watch",
@@ -16,11 +17,12 @@
     "prettier:verify": "prettier --list-different \"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}\""
   },
   "devDependencies": {
+    "@locker/eslint-config-locker": "^0.15.0",
     "@prettier/plugin-xml": "^0.12.0",
     "@salesforce/eslint-config-lwc": "^0.11.0",
     "@salesforce/eslint-plugin-aura": "^2.0.0",
     "@salesforce/sfdx-lwc-jest": "^0.10.4",
-    "eslint": "^7.24.0",
+    "eslint": "^7.32.0",
     "eslint-config-prettier": "^6.11.0",
     "husky": "^4.2.1",
     "lint-staged": "^10.0.7",
