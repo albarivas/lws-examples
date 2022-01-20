@@ -18,21 +18,9 @@ LWS also provides improved performance compared to Lightning Locker because it d
 
 ## How can I activate it?
 
-You can activate the LWS Beta for your custom LWCs in a Winter ’22 pre-release org. This will affect all your custom components, including those in managed packages. Go to Setup → Session Settings and enable “Use Lightning Web Security (beta) for Lightning web components”.
+You can activate LWS for your custom LWCs in a Spring ’22 org. This will affect all your custom LWC components, including those in managed packages. Go to Setup → Session Settings and enable “Use Lightning Web Security for Lightning web components”.
 
 LWS in setup menu If you don’t have a pre-release org, you can [sign-up](https://www.salesforce.com/form/signup/prerelease-winter22/) for one here before the release date.
-
-## Is this available for Aura?
-
-The LWS Beta (Winter '22) is only available for custom LWCs.
-
-## How can I report issues?
-
-To report issues, give feedback, and ask questions about LWS, go to [this link](https://trailhead.salesforce.com/trailblazer-community/groups/0F930000000PbJaCAK?tab=discussion).
-
-## Where can I learn more?
-
-Take a look at the [LWS announcement](https://help.salesforce.com/s/articleView?language=en_US&type=5&release=234&id=release-notes.rn_lwc_security_intro.htm) in the Winter ’22 release notes.
 
 # Deploying this App
 
