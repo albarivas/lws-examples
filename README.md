@@ -56,6 +56,8 @@ Take a look at the [LWS announcement](https://help.salesforce.com/s/articleView?
 
 1. Install [Lightning Messaging Utility](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3u00000MBecDEAT) package
 
+https://MyDomainName.lightning.force.com/packagingSetupUI/ipLanding.app?apvId=04t5w000003gWWBAA2
+
 1. Push the app to your scratch org:
 
    ```
